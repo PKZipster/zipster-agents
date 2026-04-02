@@ -4,3 +4,5 @@ google-service-account.json
 .venv/
 __pycache__/
 *.db
+logs/
+node_modules/
